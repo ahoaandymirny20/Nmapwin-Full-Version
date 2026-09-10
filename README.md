@@ -238,4 +238,4 @@ This repository serves as the official landing page for NMapWin. The software is
 **Get the most recent version of NMapWin today!**
 
 ---
-**Last updated:** 2026-09-10 05:33:41 UTC
+**Last updated:** 2026-09-10 10:33:07 UTC
